@@ -6,9 +6,9 @@ Hi, I'm CodeExplorerRay, an enthusiastic individual deeply interested in technol
 - 👀 I’m interested in technology, coding, and software development.
 - 🌱 I’m currently learning and expanding my skills in various programming languages and technologies.
 - 💞️ I’m looking to collaborate on exciting projects that challenge and inspire me.
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 📫 If you find my work helpful and would like to support me, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?username=CodeExplorer&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000)](https://www.buymeacoffee.com/CodeExplorer) 
 
 
 <!---
