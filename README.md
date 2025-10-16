@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>"Hack the code. Shape the future. Build beyond limits."</i>
+  <i>"Build beyond limits. Shape the future"</i>
 </p>
 
 ---
@@ -54,7 +54,7 @@ ChatGPT | GitHub Copilot | CI/CD | Cloud Services
 
 ---
 
-## 💀 Hacker Vibes Zone
+## 💀 Vibes Zone
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeExplorerRay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" alt="GitHub Stats" />
@@ -72,7 +72,7 @@ ChatGPT | GitHub Copilot | CI/CD | Cloud Services
 
 ## ☕ Support My Work
 
-If you’ve found value in my code, ideas, or experiments, consider fueling my next late-night hack session:
+If you’ve found value in my code, ideas, or experiments, consider fueling my next late-night session:
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/CodeExplorer">
@@ -84,7 +84,7 @@ If you’ve found value in my code, ideas, or experiments, consider fueling my n
 
 ## 💬 Let’s Connect
 
-Have an idea worth hacking together? Let’s build something epic.
+Let’s build something epic.
 
 📡 **Reach out:** [LinkedIn](#) • [Twitter](#) • [Email](#)
 
@@ -95,5 +95,5 @@ Have an idea worth hacking together? Let’s build something epic.
 </p>
 
 <p align="center">
-  <b>⚡ "Hack. Build. Iterate. Repeat." ⚡</b>
+  <b>⚡ "Build. Iterate. Repeat." ⚡</b>
 </p>
